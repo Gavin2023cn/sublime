@@ -3,3 +3,4 @@
 ### 安装了 Package Control
 ### 安装了 Git 和 GitHub Tools
 ### 卸载了 GitHub Tools,卸载插件用 Remove Packages
+### 安装了JSFormat ,使用快捷键alt+ctrl+f
